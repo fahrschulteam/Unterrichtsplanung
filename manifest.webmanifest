@@ -1,0 +1,23 @@
+{
+  "id": "/",
+  "name": "FTG Ausbildungsplanung",
+  "short_name": "FTG Planung",
+  "lang": "de",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#bc0010",
+  "icons": [
+    {
+      "src": "FTG-App-Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "FTG-App-Icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
